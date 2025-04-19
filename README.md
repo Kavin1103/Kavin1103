@@ -29,7 +29,7 @@ _“Real-Time Traffic Monitoring for Anomaly Detection and Congestion Management
   <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/sql.png" alt="SQL"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/sql.png" alt="sql"/>
 </p>
 
 ---
@@ -38,11 +38,11 @@ _“Real-Time Traffic Monitoring for Anomaly Detection and Congestion Management
 <p>
   <img width="50" height="50" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="React"/>
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
   <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/machine-learning.png" alt="machine-learning"/>
+  <img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/machine-learning.png" alt="machine-learning"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
 </p>
 
