@@ -53,9 +53,9 @@ _“Real-Time Traffic Monitoring for Anomaly Detection and Congestion Management
 
 Here’s a sneak peek into what I’ve been building lately 👇
 
-- **[Financial Fraud Detection Model](#)**  
-  <sub>Machine Learning | Classification | Data Preprocessing</sub><br>
-  Built using logistic regression, random forest, decision trees, and more, to predict fraudulent transactions with high accuracy.
+- **[Financial Fraud Detection Model](https://github.com/Kavin1103/Financial-Fraud-Deduction/tree/main)**  
+  <sub>Machine Learning | Deep Learning | Classification | Data Preprocessing</sub><br>
+  Built using logistic regression, random forest, decision trees, Autoencoders, LSTM and more, to predict fraudulent transactions with high accuracy.
 
 - **[Technology-Driven Digital Well-being](#)**  
   <sub>AI | Cybersecurity | Real-time Image Moderation</sub><br>
