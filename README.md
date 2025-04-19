@@ -13,29 +13,38 @@ I'm a curious and driven software developer with a knack for full-stack developm
 
 ---
 
-### 🔧 Programming Languages
+### 🧠 Research
+
+📘 **Presented Research Paper**:  
+_“Real-Time Traffic Monitoring for Anomaly Detection and Congestion Management”_  
+📍 2nd International Conference on Business Intelligence and Data Analytics (BIDA 2025), RVIM, Bangalore
+
+---
+
+### 🧑‍💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=white"/>
 </p>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🛠️ Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/MERN-3E863D?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI/UX-2965f1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudinary-000?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/Machine Learning-000?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=white"/>
+  <img src="https://img.shields.io/badge/UI/UX-000?style=for-the-badge&logo=figma&logoColor=white&labelColor=white"/>
 </p>
 
 ---
@@ -67,4 +76,4 @@ Here’s a sneak peek into what I’ve been building lately 👇
 ---
 
 Thanks for stopping by! 😊  
-Let's connect and build something awesome together.
+Let’s connect and build something awesome together.
