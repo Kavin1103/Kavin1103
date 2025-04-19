@@ -2,13 +2,7 @@
 <p align="center">
   🎓 Pre-final year CSE student at <b>SRM Institute of Science and Technology, Tiruchirappalli</b><br>
   💡 Passionate about software development, AI, and building scalable tech solutions<br>
-  📫 Reach me at: 
-<a href="mailto:srikavin1103@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://www.linkedin.com/in/srikavin-sakthivel/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+  📫 Reach me at: <a href="mailto:srikavin1103@gmail.com">srikavin1103@gmail.com</a> | <a href="https://www.linkedin.com/in/srikavin-sakthivel/">LinkedIn</a>
 </p>
 
 ---
@@ -29,29 +23,30 @@ _“Real-Time Traffic Monitoring for Anomaly Detection and Congestion Management
 
 ### 🧑‍💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=white"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/c-programming.png" alt="C"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/sql.png" alt="SQL"/>
 </p>
 
 ---
 
 ### 🛠️ Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-000?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/Machine Learning-000?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=white"/>
-  <img src="https://img.shields.io/badge/UI/UX-000?style=for-the-badge&logo=figma&logoColor=white&labelColor=white"/>
+  <img width="50" height="50" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="React"/>
+  <img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-cloudinary-a-cloud-based-image-and-video-management-service-logo-shadow-tal-revivo.png" alt="Cloudinary"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png" alt="Machine Learning"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
 </p>
+
 
 ---
 
