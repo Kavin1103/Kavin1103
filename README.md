@@ -41,9 +41,8 @@ _“Real-Time Traffic Monitoring for Anomaly Detection and Congestion Management
   <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/>
   <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="MongoDB"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-cloudinary-a-cloud-based-image-and-video-management-service-logo-shadow-tal-revivo.png" alt="Cloudinary"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img width="50" height="50" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-machine-learning-artificial-intelligence-flaticons-lineal-color-flat-icons.png" alt="Machine Learning"/>
+  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/machine-learning.png" alt="machine-learning"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>
 </p>
 
