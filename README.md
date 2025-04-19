@@ -2,7 +2,13 @@
 <p align="center">
   🎓 Pre-final year CSE student at <b>SRM Institute of Science and Technology, Tiruchirappalli</b><br>
   💡 Passionate about software development, AI, and building scalable tech solutions<br>
-  📫 Reach me at: <a href="mailto:srikavin1103@gmail.com">srikavin1103@gmail.com</a> | <a href="https://www.linkedin.com/in/srikavin-sakthivel/">LinkedIn</a>
+  📫 Reach me at: 
+<a href="mailto:srikavin1103@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/srikavin-sakthivel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </p>
 
 ---
